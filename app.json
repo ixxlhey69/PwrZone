@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "PwrZone",
+    "slug": "PwrZone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appicon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/appicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appicon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ixxlhey.PwrZone"
+    },
+    "web": {
+      "favicon": "./assets/appicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a11868b-125b-4ca4-9130-bc8cad89f0db"
+      }
+    }
+  }
+}
